@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oussama.chakkour@etu.uae.ac.ma**
 
-- ⚡ Fun fact **we need just food**
+- ⚡ Fun fact **A Petabyte is a lot of data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
