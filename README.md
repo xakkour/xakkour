@@ -3,11 +3,11 @@
 
 - 🔭 I'm working remote management system **SCADA**
 
-- 🌱 I’m currently learning **big data hadoop**
+- 🌱 I’m currently learning **AI and Big DATA**
+- 
+- 👯 I’m looking to collaborate on **in Big DATA AI**
 
-- 👯 I’m looking to collaborate on **in Big DATA and Algorithme**
-
-- 💬 Ask me about **Programming , Big Data , Networking**
+- 💬 Ask me about **Programming , Big Data , Networking, Servers**
 
 - 📫 How to reach me **oussama.chakkour@etu.uae.ac.ma**
 
